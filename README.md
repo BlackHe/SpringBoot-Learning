@@ -1,29 +1,31 @@
 # Spring Boot基础教程
 
-本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
+i本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
-- 我的博客：http://blog.didispace.com
-- **我的小密圈（深度交流与问答）：https://t.xiaomiquan.com/zfEiY3v**
-- GitHub：https://github.com/dyc87112/SpringBoot-Learning
-- Gitee：https://gitee.com/didispace/SpringBoot-Learning
-- Spring For All社区：http://spring4all.com/
-- Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
-- Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
+##删除了一些广告信
 
-**声明：本人已放弃"Spring Cloud中国社区"，该社区的任何行为均与本人无关。[Spring For All社区](http://spring4all.com/)是新组建的关于Spring的纯技术交流社区（涵盖Spring Boot、Spring Cloud等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！**
 
-## 样例列表
 
-#### 快速入门
 
-- chapter1：[基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
-- [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 
-#### 工程配置
 
-- chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 
-#### Web开发
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - chapter3-1-1：[构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 - chapter3-1-2：[使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
